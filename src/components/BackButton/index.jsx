@@ -8,7 +8,7 @@ const BackButton = () => {
   return (
     <Button
       variant="outlined"
-      className="flex gap-2 text-black block mx-auto mt-10"
+      className="gap-2 text-black mx-auto mt-10"
       onClick={() => router.push("/")}
     >
       <ArrowBackIosIcon />
