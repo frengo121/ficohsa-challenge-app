@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  @apply text-black focus-visible:border-none
+}
+
+p {
+  @apply mb-0
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Dell XPS 15 - Tecnología",
+    "description": "Laptop Dell de 15 pulgadas con procesador Intel i7 de 10ma generación, 16GB de RAM y 512GB SSD."
+  },
+  {
+    "id": 2,
+    "name": "Laptop Dell XPS 13 - Tecnología",
+    "description": "Laptop Dell de 13 pulgadas con procesador Intel i5 de 10ma generación, 8GB de RAM y 256GB SSD."
+  },
+  {
+    "id": 3,
+    "name": "Laptop MacBook Pro - Tecnología",
+    "description": "Laptop Apple de 13 pulgadas con procesador Intel i5 de 8va generación, 8GB de RAM y 256GB SSD."
+  },
+  {
+    "id": 4,
+    "name": "Celular iPhone 11 - Tecnología",
+    "description": "Celular Apple de 6.1 pulgadas con procesador Apple A13 Bionic, 4GB de RAM y 64GB de almacenamiento."
+  },
+  {
+    "id": 5,
+    "name": "Celular Samsung Galaxy S20 - Tecnología",
+    "description": "Celular Samsung de 6.2 pulgadas con procesador Qualcomm Snapdragon 865, 8GB de RAM y 128GB de almacenamiento."
+  },
+  {
+    "id": 6,
+    "name": "Bicicleta Trek Marlin 7 - Deportes",
+    "description": "Bicicleta Trek de montaña con cuadro de aluminio, frenos de disco hidráulicos y suspensión delantera."
+  },
+  {
+    "id": 7,
+    "name": "Bicicleta Trek Marlin 6 - Deportes",
+    "description": "Bicicleta Trek de montaña con cuadro de aluminio, frenos de disco hidráulicos y suspensión delantera."
+  }
+]
